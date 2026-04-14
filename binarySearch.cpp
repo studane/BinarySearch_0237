@@ -22,4 +22,8 @@ void input()
         }
     }
 
+    cout << "\n==============================\n";
+    cout << "      Masukkan Elemen Array    \n";
+    cout << "==============================\n";
+
     
